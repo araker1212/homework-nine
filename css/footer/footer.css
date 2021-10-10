@@ -1,0 +1,9 @@
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+}
+footer h5 {
+  color: yellow;
+}
